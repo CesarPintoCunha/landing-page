@@ -10,7 +10,7 @@ body {
 .top {
     display: flex;
     padding:40px 250px;
-    height: 150px;
+    height: 80px;
 }
 
 .top .card0,
@@ -53,7 +53,7 @@ body {
   }
 
   .web img {
-    max-width: 300px;
+    max-width: 400px;
     margin-left: auto;
   }
 
@@ -62,6 +62,7 @@ body {
     align-items: center;
     gap: 30px;
     padding: 40px 250px;
+    margin-bottom: 100px;
   }
 
   .container {
@@ -88,6 +89,13 @@ body {
     border: 5px solid #3882F6;
     border-radius: 10px;
     padding: 5px;
+  }
+
+  .second{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height:400px;
   }
 
   .second p {
