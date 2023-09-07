@@ -10,6 +10,7 @@ body {
 .top {
     display: flex;
     padding:40px 250px;
+    height: 150px;
 }
 
 .top .card0,
@@ -58,6 +59,7 @@ body {
 
   .web {
     display: flex;
+    align-items: center;
     gap: 30px;
     padding: 40px 250px;
   }
@@ -147,3 +149,12 @@ body {
     text-decoration: none;
   }
 
+  .fifth{
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding:30px;
+  }
+
+  
