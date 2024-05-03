@@ -1,5 +1,7 @@
 # Landing-Page!
 
+Simple page exercise
+
 logo img: <a href="https://www.flaticon.com/free-icons/food-and-restaurant" title="food and restaurant icons">Food and restaurant icons created by kerismaker - Flaticon</a>
 main img: Nathan Dumlao 
 processing img: <a href="https://www.flaticon.com/free-icons/coffee-production" title="coffee production icons">Coffee production icons created by surang - Flaticon</a>
